@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-deal-registration-flutter",
+  "capabilityKey": "liberusoftware/module-crm-deal-registration",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_deal_registration_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/deal-registration.md",
+  "presentationPlan": "projects/crm/flutter/deal-registration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
